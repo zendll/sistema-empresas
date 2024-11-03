@@ -22,7 +22,7 @@ new e_Empresa[MAX_EMP][Empresas];
 hook OnGameModeInit() {
     if (Conexao) {
         Carregar_Empresas(); 
-        printf("%03d Empresas Foram Carregadas", Carregar_Empresas());
+        printf("%d Empresas Foram Carregadas", Carregar_Empresas());
     }
     return 1;
 }
