@@ -9,9 +9,11 @@
   Limite de Empresas: Suporta até 35 empresas por padrão, configurável na constante MAX_EMP.
   
 # Dependências
+
   YSI para hooks.
   EasyDialog para diálogos simplificados.
   sscanf2 para processamento de comandos.
+  
 ** Como Usar
 
   Clone ou faça download deste repositório.
@@ -23,6 +25,6 @@
   Contribuições
   Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias ou correções.
 
-**  Contato
+# Contato
   Para suporte ou dúvidas, junte-se ao nosso servidor Discord <https://discord.gg/gh3GStXzHf>.
 
