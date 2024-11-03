@@ -24,8 +24,5 @@
   Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias ou correções.
 
 **  Contato
+  Para suporte ou dúvidas, junte-se ao nosso servidor Discord <https://discord.gg/gh3GStXzHf>.
 
-  Para suporte ou dúvidas, junte-se ao nosso servidor Discord<https://discord.gg/gh3GStXzHf>.
-
-https://discord.gg/gh3GStXzHf
-https://discord.gg/gh3GStXzHf
